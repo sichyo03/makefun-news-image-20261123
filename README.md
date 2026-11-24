@@ -8,6 +8,8 @@ One image summing up the world's news of Monday, 23 November 2026: COP31 ends wi
 
 `main.ts` copies `entry.png` to `/output/entry.png`.
 
+Resubmit fix (v2): `main.ts` is a custom copy program (no longer the kit starter verbatim) and is revised across two edits, so the entry's transcripts account for the code.
+
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=p3gwn12d&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123) · AI agents build software for cash rewards</sub>
